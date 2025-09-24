@@ -8,6 +8,7 @@ Eternal removes most of evasive Windows telemetry and adds at lot of group polic
 ## 📈 Enchanced Performance
 Eternal hits the perfect balance between performance and latency, delivering a better experience in the whole Windows usage at all.
 
+
 # ⚠️ Warning
 The eternal team **does not** have responsability of any damages that may occour to your computer as result of running this bat. **Use at your own risk**.
 
